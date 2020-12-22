@@ -1,0 +1,60 @@
+ body{
+    background-color:cornflowerblue;
+}
+.HyperLink{
+	position: absolute;
+}
+.Titulo{
+	font-size: 3em;
+	margin-left: 250px;
+	text-shadow: 10px 10px 10px;
+}
+.EnlaceCursos{
+	padding: 4px;
+    left:100px;
+    top: 150px;
+    position: relative	font-family: OpenSans;
+	background-color: #00FF7C;
+	border: 1px solid #00FF7C;
+	border-radius: 5px;
+	box-shadow: 0px 5px 0px black;
+	position: relative;
+	transition: all ease 0.3s;
+}
+.EnlaceNotas{
+	padding: 4px;
+    left: 390px;
+    top: 102px;
+	font-family: OpenSans;
+	background-color: #00FF7C;
+	border: 1px solid #00FF7C;
+	border-radius: 5px;
+	box-shadow: 0px 5px 0px black;
+	position: relative;
+	transition: all ease 0.3s;
+}
+.EnlaceAlumnos{
+	padding: 4px;
+    left: 700px;
+    top: 54px;
+    position: relative;
+	font-family: OpenSans;
+	background-color: #00FF7C;
+	border: 1px solid #00FF7C;
+	border-radius: 5px;
+	box-shadow: 0px 5px 0px black;
+	position: relative;
+	transition: all ease 0.3s;
+}
+.EnlaceCursos:active{
+	box-shadow: 0 3px 0 Black;
+	top: 153px;
+}
+.EnlaceNotas:active{
+	box-shadow: 0 3px 0 Black;
+	top: 105px;
+}
+.EnlaceAlumnos:active{
+	box-shadow: 0 3px 0 Black;
+	top: 57px;
+}

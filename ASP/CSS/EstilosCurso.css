@@ -1,0 +1,29 @@
+.PanelCurso{
+	Padding: 10px;
+	background-color:#ccccff;
+	border-style: solid;
+	margin-right: 39em;
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+.titulo{
+	padding-left: 100px;
+	font-size: 3em;
+}
+
+.EnlaceInicio{
+	padding: 4px;
+    position: relative	font-family: OpenSans;
+	background-color: #00FF7C;
+	border: 1px solid #00FF7C;
+	border-radius: 5px;
+	box-shadow: 0px 5px 0px black;
+	position: relative;
+	transition: all ease 0.3s;
+}
+
+.EnlaceInicio:active{
+	box-shadow: 0 3px 0 Black;
+	top: 2px;
+}

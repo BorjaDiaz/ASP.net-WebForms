@@ -1,0 +1,13 @@
+.PanelAlumno{
+	Padding: 10px;
+	background-color:#ccccff;
+	border-style: solid;
+	margin-right: 39em;
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+.titulo{
+	padding-left: 120px;
+	font-size: 3em;
+}
